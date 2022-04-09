@@ -1,27 +1,18 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
-
-
 
 /**
  *
- *  * main
+ * main
  *
- *   *
- *
- *    * Return: Always (Success)
- *
- *     */
+ * Return: Always (Success)
+ */
 
 int main(void)
 
 {
-
-		int n, lastd;
-
+int n, lastd;
 
 
 			srand(time(0));
