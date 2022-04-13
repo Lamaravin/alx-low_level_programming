@@ -5,7 +5,7 @@
  * _abs - return absolute value
  *
  * @n : number to check
- * Return: Always 0 
+ * Return: Always 0
  */
 
 int _abs(int n)
