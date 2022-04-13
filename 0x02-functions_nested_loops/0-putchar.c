@@ -15,6 +15,28 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-_putchar('\n');
-return (0);
-}
+_putchar('\n')(
+		(((((((((((
+			  le (h2 <= 2)                                                                                                                                                                                           
+			 
+			  {                                                                                                                                                                                                         
+			 
+			 if (h2 == 2)                                                                                                                                                                                              
+			
+			 {                                                                                                                                                                                                         
+			
+			/*Restrain to 23h, not 29*/                                                                                                                                                                               
+			
+			a = 3;                                                                                                                                                                                                    
+		       
+			}                                                                                                                                                                                                         
+		
+		h1 = 0;                                                                                                                                                                                                   
+	
+	while (h1 <= a)                                                                                                                                                                                           
+
+	{                                                                                                                                                                                                         
+
+	m2 = 0;                                                                                                                                                                                    
+
+	}         	(
