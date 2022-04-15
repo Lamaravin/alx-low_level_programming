@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  *
  * Return: void
  */
@@ -35,12 +35,13 @@ printf("Buzz ");
 
 else
 {
-prinf("%i ", i);
+printf("%i ", i);
 }
 
 i++;
 
 }
-printf("\n");
+
+printf('\n');
 return (0);
 }
