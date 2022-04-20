@@ -17,6 +17,8 @@ while (str[i] != '\0')
 i++;
 }
 
+last = (i + 1) / 2;
+
 for (i = last; str[i]; i++)
 {
 _putchar (str[i]);
