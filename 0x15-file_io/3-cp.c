@@ -3,13 +3,13 @@
 /**
  * main - copies the content of a file to another file
  * @argc: number of arguments passed
- * @argv: double pointer\
+ * @argv: double pointer
  * Return: the actual number of letters it could read and print
  */
 int main(int argc, char **argv)
 {
 int f1, f2, n;
-char buf[1024];
+char buf[1024]
 
 if (argc != 3)
 {
